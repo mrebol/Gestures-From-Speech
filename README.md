@@ -20,10 +20,21 @@ This code implements the gesture animation on a virtual character introduced in 
 + UMA 2 - Unity Multipurpose Avatar (Free Download in Unity Asset Store)
 
 
-## Dataset
+## Run
 
+Open the project in Unity and press Play in the Unity Editor to run a test sequence.
 
 ## Configuration
+
+Choose between different sequence from Oliver and Gruber. 
+
+Select the Game Object GestureManager in the scene hierachy panel:
+
+![Scene Hierachy Panel](https://github.com/mrebol/Gestures-From-Speech/blob/main/media/gesture-manager.png)
+
+Choose a sequence from the dropdown menu Selected Interval:
+
+![Selected Interval](https://github.com/mrebol/Gestures-From-Speech/blob/main/media/speaker-select.png)
 
 
 
