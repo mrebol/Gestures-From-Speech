@@ -15,6 +15,8 @@ This code implements the gesture animation on a virtual character introduced in 
 
 *A: Generated from our model vs B: Gestures extracted from video*
 
+___
+Click for video with audio:
 
 [![Example](https://img.youtube.com/vi/EymqvsYJs_8/0.jpg)](https://www.youtube.com/watch?v=EymqvsYJs_8)
 
