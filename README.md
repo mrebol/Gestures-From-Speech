@@ -15,6 +15,10 @@ This code implements the gesture animation on a virtual character introduced in 
 
 *A: Generated from our model vs B: Gestures extracted from video*
 
+
+[![Example](https://img.youtube.com/vi/EymqvsYJs_8/0.jpg)](https://www.youtube.com/watch?v=EymqvsYJs_8)
+
+
 ## Dependencies
 + Unity 2019.4
 + UMA 2 - Unity Multipurpose Avatar (Free Download in Unity Asset Store)
