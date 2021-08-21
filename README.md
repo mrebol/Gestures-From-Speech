@@ -12,6 +12,7 @@ This code implements the animation on a virtual character introduced in the publ
     } 
     
 ![A: Generated from our model vs B: Gestures extracted from video](https://github.com/mrebol/Gesture-Generation-From-Speech/blob/main/media/ours-vs-video.gif)
+
 *A: Generated from our model vs B: Gestures extracted from video*
 
 ## Dependencies
