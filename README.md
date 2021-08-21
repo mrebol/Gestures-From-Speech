@@ -1,6 +1,6 @@
-# Gesture Animation From Human Pose
+# Gesture Generation and Animation From Speech
 
-This code implements the animation on a virtual character introduced in the publication [Passing a Non-verbal Turing Test: Evaluating Gesture Animations Generated from Speech](https://arxiv.org/abs/2107.00712):
+This code implements the gesture animation on a virtual character introduced in the publication [Passing a Non-verbal Turing Test: Evaluating Gesture Animations Generated from Speech](https://arxiv.org/abs/2107.00712):
 
     @InProceedings{Rebol_2021_IEEE_VR,
       author = {Rebol, Manuel and Gütl, Christian and Pietroszek, Krzysztof},
@@ -26,9 +26,4 @@ This code implements the animation on a virtual character introduced in the publ
 ## Configuration
 
 
-
-## Evaluation
-
-
-## Results
 
