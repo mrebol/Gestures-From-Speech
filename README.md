@@ -11,8 +11,8 @@ This code implements the animation on a virtual character introduced in the publ
       doi={10.1109/VR50410.2021.00082}
     } 
     
-![ESPNet vs our model](https://github.com/mrebol/f2fcss/blob/master/resources/esp_vs_our_model.gif)
-*ESPNet vs Our Model ESPNet_L1b*
+![A: Generated from our model vs B: Gestures extracted from video](https://github.com/mrebol/Gesture-Generation-From-Speech/blob/main/media/ours-vs-video.gif)
+*A: Generated from our model vs B: Gestures extracted from video*
 
 ## Dependencies
 + Unity 2019.4
