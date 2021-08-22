@@ -15,11 +15,14 @@ This code implements the gesture animation on a virtual character introduced in 
 
 *A: Generated from our model vs B: Gestures extracted from video*
 
+
+[![Overview](https://img.youtube.com/vi/Q6MYVmXczUU/0.jpg)](https://www.youtube.com/watch?v=Q6MYVmXczUU)
+*Overview*
 ___
 Click for video with audio:
 
 [![Example](https://img.youtube.com/vi/EymqvsYJs_8/0.jpg)](https://www.youtube.com/watch?v=EymqvsYJs_8)
-
+*A: Generated from our model vs B: Gestures extracted from video*
 
 ## Dependencies
 + Unity 2019.4
